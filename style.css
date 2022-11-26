@@ -136,6 +136,11 @@ p {
   border-radius: 20px;
   text-decoration: none;
 }
+.btn:hover {
+  border: 1px solid #fff;
+  color: var(--transparent-white-paragraphs);
+  background-color: transparent;
+}
 
 .attribution { font-size: 11px; text-align: center; color: var(--very-dark-cyan); }
 .attribution a { color: var(--dark-cyan); }
