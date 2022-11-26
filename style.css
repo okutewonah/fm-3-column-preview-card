@@ -78,6 +78,7 @@ body {
   height: 100vh;
   /* margin: 1rem; */
 }
+h1,
 h2 {
   font-family: 'Big Shoulders Display', cursive;
   font-weight: 700;
